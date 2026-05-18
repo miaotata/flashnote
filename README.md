@@ -1,5 +1,5 @@
 # 闪念笔记 FlashNote
-
+自己做的简易的小笔记APP，记录你的小灵感，有兴趣的可以向我提出建议增加新内容
 > 快速捕捉转瞬即逝的想法 — 智能提醒 + 任务可视化 + 想法整合
 
 **Android** · **iOS** · **Web** | Flutter 跨平台 | 纯本地 SQLite | Cupertino UI 风格
